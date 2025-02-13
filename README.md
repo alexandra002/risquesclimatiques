@@ -70,31 +70,5 @@ This project is divided into **two main parts**:
 
 ---
 
-📂 **Structure du projet / Project Structure**
-```
-📁 DataChallenge_CDC
-│── 📄 DataChallenge_BAILLET_MILLOT_ELHABTI.ipynb  # Notebook principal
-│── 📄 livrable.pdf       # Rapport détaillé du projet
-│── 📁 data/              # Dossier contenant les données (non incluses sur GitHub)
-│── 📁 models/            # Dossier avec les modèles entraînés (optionnel)
-```
-
-🚀 **Instructions pour exécuter le projet**
-1. **Cloner ce repository** :
-   ```bash
-   git clone https://github.com/[TON_GITHUB]/DataChallenge_CDC.git
-   cd DataChallenge_CDC
-   ```
-2. **Installer les dépendances** :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Lancer le Notebook Jupyter** :
-   ```bash
-   jupyter notebook DataChallenge_BAILLET_MILLOT_ELHABTI.ipynb
-   ```
-
----
-
 💡 **Contact**
 Pour toute question ou suggestion, n’hésitez pas à me contacter via **GitHub** ou **LinkedIn**.
